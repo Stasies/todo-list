@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Vela Sans";
+  src: local("Vela Sans"),
+    url(./VelaSans/Variable/VelaSans-GX.ttf) format("truetype");
+}
